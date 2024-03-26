@@ -29,4 +29,4 @@ This application provides a simple and intuitive way for users to manage their t
 2. Clone the task folder into your PC.
 3. Open a terminal or command prompt.
 4. Navigate the directory containing 'To-Do-List'.
-5. Run the script using 'python To-Do-List' .
+5. Run the script using 'python To-Do-List.py' .
